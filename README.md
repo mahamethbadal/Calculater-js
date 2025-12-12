@@ -26,8 +26,9 @@ Designed to work seamlessly on **desktop and mobile**, this project showcases **
 </div>
 
 ---
-<img width="1844" height="850" alt="Screenshot 2025-12-11 190839" src="https://github.com/user-attachments/assets/b7581daf-7833-4b33-b536-3dafb26db8ac" />
-<img width="1866" height="879" alt="Screenshot 2025-12-11 190751" src="https://github.com/user-attachments/assets/e4ec7cd0-8cf6-48f2-9abd-3c77d995fb9a" />
+<img width="1844" height="850" alt="Screenshot 2025-12-11 190839" src="https://github.com/user-attachments/assets/371498cc-9855-41ae-b9d6-4669fe609861" />
+<img width="1866" height="879" alt="Screenshot 2025-12-11 190751" src="https://github.com/user-attachments/assets/2370a7e4-a9c0-407f-8270-9e63d5706ef1" />
+
 
 
 ## 🚀 Usage
